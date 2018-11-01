@@ -20,7 +20,7 @@
     "test": "jest --silent"
   },
   "bin": {
-    "dw-cli": "bin/cli.js"
+    "dw": "bin/cli.js"
   },
   "dependencies": {},
   "devDependencies": {
